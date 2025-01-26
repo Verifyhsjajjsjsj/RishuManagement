@@ -5,10 +5,10 @@ from pyrogram import filters
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("26162072"))
+API_HASH = getenv("ba25181c01b50d945748801b6c8b6ecc")
 
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("7537472903:AAG6APeY8iow4mw1t0OX3EMajVMqDJcWL6E")
 OWNER_USERNAME = getenv("OWNER_USERNAME","Rishu1286")
 BOT_USERNAME = getenv("BOT_USERNAME" , "Vip_music_vc_bot")
 BOT_NAME = getenv("BOT_NAME" , "RISHU")
